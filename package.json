@@ -1,5 +1,5 @@
 {
-  "name": "page-generator",
+  "name": "ng-page-schematics",
   "version": "1.0.0",
   "description": "A blank schematics",
   "scripts": {

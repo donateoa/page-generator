@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
   "schematics": {
-    "page-generator": {
+    "ng-page-schematics": {
       "description": "Create an Angular page.",
       "factory": "./page-generator",
       "aliases": ["p"],
