@@ -4,7 +4,7 @@
     "ng-page-schematics": {
       "description": "Create an Angular page.",
       "factory": "./page-generator",
-      "aliases": ["p"],
+      "aliases": ["page"],
       "schema": "./page-generator/schema.json"
     }
   }
